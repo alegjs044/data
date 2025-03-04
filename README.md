@@ -1,2 +1,2 @@
 # data
-datase de tasa de suicidios  (1987-2017)
+dataset de tasa de suicidios  (1987-2017)
